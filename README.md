@@ -7,10 +7,11 @@
 <h2 style=color:#DDA0DD><b><u>Table of Contents</b></u></h2></summary>
   <ol>
     <li><a href='#Description'> Description</a></li>
-    <li><a href="#Script">How To Get The Respoistory on Your Machine</a></li> 
-  <li><a href='#Technologies_Used'>Technologies Used</a></li>
+    <li><a href="#Script">How To Get The Respoistory on Your Machine</a></li>
+    <li><a href="#Jupyter">Running Jupyter Notebook</a></li>
+    <li><a href='#Technologies_Used'>Technologies Used</a></li>
     <li><a href="#Libraries_Used">Libraries Used</a></li>
-    <li><a href="#Importing_Data">Importing The Data Set</a></li>
+    
   </ol>
   
 ---
@@ -64,7 +65,7 @@ The Jupyter Notebook and images used can be found at https://github.com/kmcd14/P
 To access this notebook - numpy-random.ipynb -  you will need to install Python preferably through Anaconda distribution. 
 
 
-<h3><b><u>Running Jupyter Notebook</b></u></p></h3>
+<h3><b><u><p id='Jupyter'>Running Jupyter Notebook</p></b></u></p></h3>
 <li>From the command line navigate to the folder you have cloned the  repository.</li>
 <li>Type jupyter lab or jupyer notebook into the command line and press enter</li>
 <li>Open the numpy-random.ipynb notebook in the browser</li>
