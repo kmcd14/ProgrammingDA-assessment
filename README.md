@@ -11,6 +11,7 @@
     <li><a href="#Jupyter">Running Jupyter Notebook</a></li>
     <li><a href='#Technologies_Used'>Technologies Used</a></li>
     <li><a href="#Libraries_Used">Libraries Used</a></li>
+    <li><a href="#Viewer">nbview</a></li>
     
   </ol>
   
@@ -106,3 +107,7 @@ To access this notebook - numpy-random.ipynb -  you will need to install Python 
 ```
 ---
 ---
+
+<h3><b><u><p id='View'>nbviewer:</b></u></p></h3>
+	
+Additionally, you can view the notebook by clicking on the following icon [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kmcd14/ProgrammingDA-assessment/blob/main/numpy-random.ipynb)
